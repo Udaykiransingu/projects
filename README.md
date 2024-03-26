@@ -1,1 +1,1 @@
-this project is based on full stack python training.here in this project I used the python language to write the code.This project is about bank managing system like creating an account,depositing the money in the account,withdrawing the money from the account.
+these projects are based on the full stack programming course.
